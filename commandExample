@@ -1,0 +1,18 @@
+exports.run = async (client, message, args) => {
+  
+  
+  
+}
+
+exports.conf = {
+  enabled: false,
+  guildOnly: false,
+  aliases: [],
+};
+
+exports.help = {
+  name: "",
+  category: "",
+  description: "",
+  usage: ""
+};
